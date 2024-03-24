@@ -1,10 +1,10 @@
 <p align="center">
-  <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
+  <img src=".assets/devika-avatar.png" alt="Ninja Logo" width="250">
 </p>
 
 <h1 align="center">🚀 Devika - Agentic AI Software Engineer 👩‍💻</h1>
 
-![devika screenshot](.assets/devika-screenshot.png)
+![Ninja screenshot](.assets/devika-avatar.png)
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
@@ -29,12 +29,10 @@
 
 ## About
 
-Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
+Ninja is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
 
-Devika aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, Devika is here to assist you.
+Ninja aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, Devika is here to assist you.
 
-> [!NOTE]
-> Devika is modeled after [Devin](https://www.cognition-labs.com/introducing-devin) by Cognition AI. This project aims to be an open-source alternative to Devin with an "overly ambitious" goal to meet the same score as Devin in the [SWE-bench](https://www.swebench.com/) Benchmarks... and eventually beat it?
 
 ## Demos
 
