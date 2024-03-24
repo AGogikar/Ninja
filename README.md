@@ -1,10 +1,5 @@
-<p align="center">
-  <img src=".assets/devika-avatar.png" alt="Ninja Logo" width="250">
-</p>
 
-<h1 align="center">🚀 Devika - Agentic AI Software Engineer 👩‍💻</h1>
-
-![Ninja screenshot](.assets/devika-avatar.png)
+<h1 align="center">🚀 Ninja - Agentic AI Software Engineer 👩‍💻</h1>
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
